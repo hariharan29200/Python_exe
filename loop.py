@@ -24,7 +24,6 @@ for x in "vavuniya":
     print(x)
 print()
 
-print(x)
 
 for x in range(5): #(it starts from 0 to 4)
     print(x)
